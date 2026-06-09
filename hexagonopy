@@ -1,0 +1,7 @@
+print("Calcúlo de aréa do hexagono")
+
+perimetro = int(input("DIGITE O VALOR DO SEU PERIMETRO: "))
+apotema = int(input("DIGITE O O VALOR DA UA APOTEMA: "))
+
+calculo = (perimetro * apotema)  /2
+print("A ARÉA DO SEU HEXAGONO É: " , calculo ,  "CM²")
